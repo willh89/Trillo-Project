@@ -34,7 +34,7 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
+### 🧐 About <a name = "about"></a>
 
 The key objective of this project was to build a responsive landing page by using Flexbox in CSS. This project helped me comprehend the best practices of postioning, spacing, and alignment
 
@@ -96,7 +96,7 @@ package.json
 Changes can be made in the components SASS folder.
 Run **npm watch:sass** to see in the browser all changes made in real time. 
 
-## ⛏️ Built Using <a name = "built_using"></a>
+### ⛏️ Built Using <a name = "built_using"></a>
 
 - HTML - Markup Language
 - CSS - Stylesheets
@@ -105,7 +105,7 @@ Run **npm watch:sass** to see in the browser all changes made in real time.
 - Flexbox - CSS web layout model
 - SVGs - vector images
 
-## ✍️ Authors <a name = "authors"></a>
+### ✍️ Authors <a name = "authors"></a>
 
 - [@willh89](https://github.com/willh89) - Built by
 - [@jonasschmedtmann](https://github.com/jonasschmedtmann) - Idea & Initial Work
