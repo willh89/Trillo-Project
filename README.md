@@ -24,7 +24,7 @@
 
 ![](img/Trillo.png)
 
-## 📝 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Usage](#usage)
