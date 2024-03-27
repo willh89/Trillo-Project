@@ -14,7 +14,7 @@
   
 ---
 
-<p align="center"> **An introduction to FlexBox** 
+<p align="center"> An introduction to FlexBox 
 
       
 #### [Click here for live site](https://wills-trillo-project.netlify.app/)
