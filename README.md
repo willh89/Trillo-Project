@@ -28,6 +28,8 @@
 
 - [About](#about)
 - [Usage](#usage)
+- [Requirements](#Requirements)
+- [Installation](#Installation)
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
