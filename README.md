@@ -51,35 +51,44 @@ Once Node.js is installed, you will need to install several extensions to run th
 
 Open the terminial/command line in your code editor, then install the following:
 
-```
-```
+``
 npm install node-sass ---save-dev
 ```
+
 ```
 npm install postcss --save-dev
 ```
+
 ```
 npm install npm-run-all --save-dev
 ```
+
 ```
 npm install live-server --save-dev -w
 ```
+
 ```
 npm run build:css
 ```
+
 ```
 npm run start
+```
 
 ```
 
 Once the above are installed run the following commands:
 
 ```
-
 npm run build:css
-npm run start
-npm watch:sass
+```
 
+```
+npm run start
+```
+
+```
+npm watch:sass
 ```
 
 ```
