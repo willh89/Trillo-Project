@@ -32,6 +32,7 @@
 - [Installation](#Installation)
 - [Built Using](#built_using)
 - [Authors](#authors)
+- [Acknowledgements](#acknowledgements)
 
 ### About 
 
@@ -118,4 +119,4 @@ Run **npm watch:sass** to see in the browser all changes made in real time.
 - [@jonasschmedtmann](https://github.com/jonasschmedtmann) - Idea & Initial Work
 
 ### Acknowledgements
-- [@jonasschmedtmann](https://github.com/jonasschmedtmann/advanced-css-course) - Advanced CSS Course
+[@jonasschmedtmann](https://github.com/jonasschmedtmann/advanced-css-course) - Advanced CSS Course
