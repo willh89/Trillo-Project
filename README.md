@@ -72,6 +72,8 @@ Once the above are installed run the following commands:
 
 ```
 
+```
+
 "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "devserver": "live-server",
