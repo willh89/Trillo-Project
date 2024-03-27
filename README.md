@@ -41,7 +41,7 @@ SVG (vectors) icons were also used throughout, as well as the BEM methodology, C
 
 ### Requirements
 
-You will need to intall [Node.js](https://nodejs.org/en/) to run this.
+You will need to install [Node.js](https://nodejs.org/en/) to run this project.
 
 Check the documentation to install it on your system.
 
