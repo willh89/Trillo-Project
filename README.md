@@ -80,7 +80,7 @@ npm run start
 ```
 npm watch:sass
 ```
-Once installed all the following commands in the ••package.json•• file should function correctly.  
+Once installed, all following commands in the **package.json** file should function correctly.  
 ```
 
 "scripts": {
