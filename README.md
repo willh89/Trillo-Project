@@ -37,7 +37,7 @@
 
 The objective of this project was to build a responsive booking site to practice using Flexbox in CSS. This project helped me understand best practices of positioning, spacing, and alignment.
 
-SVG i(vectors) icons were also used throughout, as well as the BEM methodology, CSS variables, miscellaneous animations and a responsive design to ensure the site was accessible on all devices.
+SVG (vectors) icons were also used throughout, as well as the BEM methodology, CSS variables, miscellaneous animations and a responsive design ensuring the site is accessible on all devices.
 
 ### Requirements
 
