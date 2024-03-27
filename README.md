@@ -3,7 +3,7 @@
  <img width=200px height=200px src="img/favicon.png" alt="Project logo"></a>
 </p>
 
-<h1 align="center">Trillo Project</h1>
+<h1 align="center">**Trillo Project**</h1>
 
 <div align="center">
 
