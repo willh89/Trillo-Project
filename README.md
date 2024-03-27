@@ -47,9 +47,9 @@ Check the documentation to install it on your system.
 
 ### Installation
 
-Once Node.js is installed, you will need to install several extensions to run the project.
+Once Node.js is installed, you will need several extensions to run this project.
 
-Open the terminial/command line in your code editor, then install the following:
+Open the terminal/command-line in your code editor, then install the following:
 
 ```
 npm install node-sass ---save-dev
