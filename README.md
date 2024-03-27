@@ -51,7 +51,7 @@ Once Node.js is installed, you will need to install several extensions to run th
 
 Open the terminial/command line in your code editor, then install the following:
 
-``
+```
 npm install node-sass ---save-dev
 ```
 
