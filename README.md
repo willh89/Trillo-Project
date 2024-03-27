@@ -49,6 +49,8 @@ Check the documentation to install it on your system.
 Once Node.js is installed, you can see all necessary scripts in the package.json file.
 Before running anything you will need to install a live server extension.
 
+```
+
 Open the terminial in your code editor and install the following:
 - npm install node-sass ---save-dev
 - npm install postcss --save-dev
@@ -56,6 +58,8 @@ Open the terminial in your code editor and install the following:
 - npm install live-server --save-dev -w
 - npm run build:css
 - npm run start
+
+```
 
 ```
 
@@ -81,7 +85,7 @@ package.json
 
 ```
 
-## 🎈 Usage <a name="usage"></a>
+### 🎈 Usage <a name="usage"></a>
 
 Changes can be made in the components SASS folder.
 Run **npm watch:sass** to see in the browser all changes made in real time. 
