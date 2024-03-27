@@ -80,7 +80,7 @@ npm run start
 ```
 npm watch:sass
 ```
-
+Once installed you should be able to view the following in the package.json file.
 ```
 
 "scripts": {
