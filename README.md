@@ -67,16 +67,6 @@ npm install npm-run-all --save-dev
 npm install live-server --save-dev -w
 ```
 
-```
-npm run build:css
-```
-
-```
-npm run start
-```
-
-
-
 Once the above are installed run the following commands:
 
 ```
