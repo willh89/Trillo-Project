@@ -75,7 +75,7 @@ npm run build:css
 npm run start
 ```
 
-```
+
 
 Once the above are installed run the following commands:
 
