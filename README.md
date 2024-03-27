@@ -36,9 +36,9 @@
 
 ### About <a name = "about"></a>
 
-The key objective of this project was to build a responsive landing page by using Flexbox in CSS. This project helped me comprehend the best practices of postioning, spacing, and alignment
+The objective of this project was to build a responsive booking site using Flexbox in CSS. This project helped me comprehend the best practices of positioning, spacing, and alignment.
 
-In addition to learning flexbox, SVG icons were also used throughout this project as well as the BEM methodology, CSS variables, various animations and a responsive design to ensure the site was accessible on all devices.
+SVG i(vectors) icons were also used throughout, as well as the BEM methodology, CSS variables, miscellaneous animations and a responsive design to ensure the site was accessible on all devices.
 
 ### Requirements
 
