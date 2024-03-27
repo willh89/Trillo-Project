@@ -116,3 +116,6 @@ Run **npm watch:sass** to see in the browser all changes made in real time.
 
 - [@willh89](https://github.com/willh89) - Built by
 - [@jonasschmedtmann](https://github.com/jonasschmedtmann) - Idea & Initial Work
+
+### Acknowledgements
+- [@jonasschmedtmann](https://github.com/jonasschmedtmann/advanced-css-course) - Advanced CSS Course
