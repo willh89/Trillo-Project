@@ -33,7 +33,7 @@
 - [Built Using](#built_using)
 - [Authors](#authors)
 
-### About <a name = "about"></a>
+### About 
 
 The objective of this project was to build a responsive booking site to practice using Flexbox in CSS. This project helped me understand best practices of positioning, spacing, and alignment.
 
@@ -98,12 +98,12 @@ package.json
 
 ```
 
-### Usage <a name="usage"></a>
+### Usage 
 
 Changes can be made in the components SASS folder.
 Run **npm watch:sass** to see in the browser all changes made in real time. 
 
-### Built Using <a name = "built_using"></a>
+### Built Using 
 
 - HTML - Markup Language
 - CSS - Stylesheets
@@ -112,7 +112,7 @@ Run **npm watch:sass** to see in the browser all changes made in real time.
 - Flexbox - CSS web layout model
 - SVGs - vector images
 
-### Authors <a name = "authors"></a>
+### Authors
 
 - [@willh89](https://github.com/willh89) - Built by
 - [@jonasschmedtmann](https://github.com/jonasschmedtmann) - Idea & Initial Work
